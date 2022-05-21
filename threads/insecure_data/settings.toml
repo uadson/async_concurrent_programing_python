@@ -1,0 +1,4 @@
+name = 'insecure_data'
+
+[database]
+url = "sqlite:///insecure_data.db"
